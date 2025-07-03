@@ -1,5 +1,7 @@
 require('dotenv').config();
+require('dotenv').config();
 console.log("👀 Truth Tree server is starting...");
+console.log("🌟 TRUTH TREE IS ALIVE AND DEPLOYED 🌟");
 const fs = require('fs');
 const express = require('express');
 const cors = require('cors');
